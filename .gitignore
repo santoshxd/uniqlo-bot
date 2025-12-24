@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+bot.log
+bot.log.*
+
+# State / runtime files
+state.json
+tracked_items.json
+
+# Environment
+.env
+
+# Playwright
+.playwright/
+
+# OS
+.DS_Store
+Thumbs.db
